@@ -1,0 +1,28 @@
+* {
+  color: burlywood;
+}
+
+h1 {
+  color:aqua;
+}
+
+.subhead {
+  color:slateblue ;
+}
+.subhead.funny {
+  background-color: hotpink;
+}
+
+#specific {
+  color:crimson
+}
+
+a {
+  color:black
+}
+.container a {
+  color:rgb(196, 42, 42)
+}
+section p a {
+  color:rgb(233, 236, 49)
+}
