@@ -1,0 +1,8 @@
+{
+  "plugins": [
+      "css"
+  ],
+  "extends": [
+      "plugin:css/recommended"
+  ]
+}

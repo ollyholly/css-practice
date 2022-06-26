@@ -1,0 +1,30 @@
+{
+  "name": "css-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json,css,html}' --config ./.prettierrc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ollyholly/css-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ollyholly/css-practice/issues"
+  },
+  "homepage": "https://github.com/ollyholly/css-practice#readme",
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-css": "^0.6.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.29.4",
+    "prettier": "^2.6.2"
+  }
+}
